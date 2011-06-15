@@ -1,0 +1,2 @@
+serviceClass: de.evgeny.classico.server.client.GreetingService
+path: C65992C4961AFA338BF64C3A7C69B303.gwt.rpc
